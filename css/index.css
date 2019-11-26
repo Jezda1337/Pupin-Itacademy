@@ -12,11 +12,12 @@ main {
     margin: auto;
 }
 
-ul {
-    list-style: none;
-    display: flex;
-    width: 70%;
-    margin:auto;
+.header {
+    margin-bottom: 60px;
+}
+
+.header2 {
+    margin-top: 60px;
 }
 
 li {
@@ -39,4 +40,16 @@ p {
 
 main h1 {
     margin-top: 50px;
+}
+
+.nav {
+    list-style: none;
+    display: flex;
+    width: 70%;
+    margin:auto;
+}
+
+.box {
+    text-align: start;
+    line-height: 30px;
 }
