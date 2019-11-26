@@ -1,0 +1,42 @@
+* {
+    font-family: sans-serif;
+}
+
+main { 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    width: 70%;
+    margin: auto;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    width: 70%;
+    margin:auto;
+}
+
+li {
+    margin-right: auto;
+}
+
+a {
+    font-size: 20px;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+p {
+    font-size: 17px;
+    line-height: 30px;
+}
+
+main h1 {
+    margin-top: 50px;
+}
